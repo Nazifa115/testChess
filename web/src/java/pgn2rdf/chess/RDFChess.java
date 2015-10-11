@@ -7,7 +7,8 @@ package pgn2rdf.chess;
  */
 public class RDFChess {
 
-    public static final String DATA_URI = RDFChessConfig.get("datauri","http://salonica.dia.fi.upm.es:8080/rdfchess/resource/");
+    //public static final String DATA_URI = RDFChessConfig.get("datauri","http://salonica.dia.fi.upm.es:8080/rdfchess/resource/");
+    public static final String DATA_URI = RDFChessConfig.get("datauri","http://chessdata.org/resource/");
     public static final String ONTOLOGY_URI = "http://purl.org/NET/rdfchess/ontology/";
 
 }

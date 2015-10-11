@@ -3,10 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/Users/nazifakarima/Documents/Nazifa/WrightStateUni/DaseLab/LinkedChessDataset/linkedChessdataset/web/web/model.html</file>
             <file>file:/Users/nazifakarima/Documents/Nazifa/WrightStateUni/DaseLab/LinkedChessDataset/linkedChessdataset/web/web/index.html</file>
-            <file>file:/Users/nazifakarima/Documents/Nazifa/WrightStateUni/DaseLab/LinkedChessDataset/linkedChessdataset/web/web/js/jchess-0.1.0.js</file>
             <file>file:/Users/nazifakarima/Documents/Nazifa/WrightStateUni/DaseLab/LinkedChessDataset/linkedChessdataset/web/web/pgn2rdf.html</file>
-            <file>file:/Users/nazifakarima/Documents/Nazifa/WrightStateUni/DaseLab/LinkedChessDataset/linkedChessdataset/web/web/game.html</file>
+            <file>file:/Users/nazifakarima/Documents/Nazifa/WrightStateUni/DaseLab/LinkedChessDataset/linkedChessdataset/web/src/java/pgn2rdf/servlets/Pgn2rdfServlet.java</file>
+            <file>file:/Users/nazifakarima/Documents/Nazifa/WrightStateUni/DaseLab/LinkedChessDataset/linkedChessdataset/web/src/java/pgn2rdf/chess/PGNProcessor.java</file>
+            <file>file:/Users/nazifakarima/Documents/Nazifa/WrightStateUni/DaseLab/LinkedChessDataset/linkedChessdataset/web/src/java/pgn2rdf/chess/RDFChess.java</file>
+            <file>file:/Users/nazifakarima/Documents/Nazifa/WrightStateUni/DaseLab/LinkedChessDataset/linkedChessdataset/web/src/java/pgn2rdf/files/RDFStore.java</file>
         </group>
     </open-files>
 </project-private>

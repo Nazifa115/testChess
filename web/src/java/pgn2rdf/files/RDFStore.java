@@ -412,7 +412,8 @@ public class RDFStore {
      */
     public static String writeGame(String gameid, String game) {
         try {
-            String serviceURI = RDFChessConfig.get("fuseki", "http://localhost:3030/RDFChess/data");
+            //String serviceURI = RDFChessConfig.get("fuseki", "http://localhost:3030/RDFChess/data");
+            String serviceURI = RDFChessConfig.get("fuseki", "http://geolink.cs.wright.edu/fuseki/");
             DatasetAccessor dataAccessor = DatasetAccessorFactory.createHTTP(serviceURI);
             Model model = ModelFactory.createDefaultModel();
             InputStream stream = new ByteArrayInputStream(game.getBytes("UTF-8"));
